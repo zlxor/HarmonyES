@@ -22,7 +22,7 @@ struct EnergyNode {
     let parameter: CGFloat
     let status: Bool
     let user: String
-    let target: Bool
+    let target: Int
 }
 
 class MangerViewController: UIViewController {
@@ -57,15 +57,15 @@ class MangerViewController: UIViewController {
     }
     
     private func demoDataGenerize() {
-        models.append(EnergyNode(id: 1001, name: "Photovoltaics Tech", type: .photovoltaics, parameter: 1, status: false, user: "Junzhe", target: true))
-        models.append(EnergyNode(id: 1002, name: "Solar Energy PV", type: .photovoltaics, parameter: 1, status: true, user: "Annan", target: true))
-        models.append(EnergyNode(id: 1003, name: "Giant Wind Power", type: .wind_power, parameter: 1, status: true, user: "Annan", target: true))
-        models.append(EnergyNode(id: 1004, name: "City consumption", type: .consumption, parameter: 1, status: false, user: "Annan", target: true))
-        models.append(EnergyNode(id: 1005, name: "Strong-Wind", type: .wind_power, parameter: 1, status: false, user: "Junzhe", target: true))
-        models.append(EnergyNode(id: 1006, name: "City consumption2", type: .consumption, parameter: 1, status: false, user: "Junzhe", target: true))
-        models.append(EnergyNode(id: 2001, name: "Intelligent Storage System", type: .storage, parameter: 1, status: true, user: "Annan", target: true))
-        models.append(EnergyNode(id: 2002, name: "Clean Fuel Home", type: .fossil_fuel, parameter: 1, status: true, user: "Annan", target: true))
-        models.append(EnergyNode(id: 2003, name: "Fuel For Future", type: .fossil_fuel, parameter: 1, status: false, user: "Junzhe", target: true))
+        models.append(EnergyNode(id: 1001, name: "Photovoltaics Tech", type: .photovoltaics, parameter: 1, status: false, user: "Junzhe", target: 0))
+        models.append(EnergyNode(id: 1002, name: "Solar Energy PV", type: .photovoltaics, parameter: 1, status: true, user: "Annan", target: 0))
+        models.append(EnergyNode(id: 1003, name: "Giant Wind Power", type: .wind_power, parameter: 1, status: false, user: "Annan", target: 0))
+        models.append(EnergyNode(id: 1004, name: "City consumption", type: .consumption, parameter: 1, status: true, user: "Annan", target: 0))
+        models.append(EnergyNode(id: 1005, name: "Strong-Wind", type: .wind_power, parameter: 1, status: false, user: "Junzhe", target: 0))
+        models.append(EnergyNode(id: 1006, name: "City consumption2", type: .consumption, parameter: 1, status: false, user: "Junzhe", target: 0))
+        models.append(EnergyNode(id: 2001, name: "Intelligent Storage System", type: .storage, parameter: 1, status: true, user: "Annan", target: 0))
+        models.append(EnergyNode(id: 2002, name: "Clean Fuel Home", type: .fossil_fuel, parameter: 1, status: true, user: "Annan", target: 0))
+        models.append(EnergyNode(id: 2003, name: "Fuel For Future", type: .fossil_fuel, parameter: 1, status: false, user: "Junzhe", target: 0))
     }
     
     override func viewDidLayoutSubviews() {

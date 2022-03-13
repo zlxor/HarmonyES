@@ -30,8 +30,8 @@ class ControlledNodesViewController: UIViewController {
     private func demoDataGenerize() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
-        models.append(EnergyNode(id: 2001, name: "Intelligent Storage System", type: .storage, parameter: -42.66, status: true, user: "Annan", target: false))
-        models.append(EnergyNode(id: 2002, name: "Clean Fuel Home", type: .fossil_fuel, parameter: 34.79, status: true, user: "Annan", target: false))
+        models.append(EnergyNode(id: 2001, name: "Intelligent Storage System", type: .storage, parameter: -42.66, status: true, user: "Annan", target: 2))
+        models.append(EnergyNode(id: 2002, name: "Clean Fuel Home", type: .fossil_fuel, parameter: 34.79, status: true, user: "Annan", target: 2))
     }
 
     override func viewDidLayoutSubviews() {

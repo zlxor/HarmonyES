@@ -28,9 +28,9 @@ class TriggerNodesViewController: UIViewController {
     }
     
     private func demoDataGenerize() {
-        models.append(EnergyNode(id: 1002, name: "Solar Energy PV", type: .photovoltaics, parameter: 324.78, status: true, user: "Annan", target: false))
-        models.append(EnergyNode(id: 1004, name: "City consumption", type: .consumption, parameter: -68.25, status: true, user: "Annan", target: false))
-        models.append(EnergyNode(id: 1003, name: "Giant Wind Power", type: .wind_power, parameter: 223.14, status: false, user: "Annan", target: false))
+        models.append(EnergyNode(id: 1002, name: "Solar Energy PV", type: .photovoltaics, parameter: 324.78, status: true, user: "Annan", target: 1))
+        models.append(EnergyNode(id: 1004, name: "City consumption", type: .consumption, parameter: -68.25, status: true, user: "Annan", target: 1))
+        models.append(EnergyNode(id: 1003, name: "Giant Wind Power", type: .wind_power, parameter: 223.14, status: false, user: "Annan", target: 1))
     }
     
     override func viewDidLayoutSubviews() {
