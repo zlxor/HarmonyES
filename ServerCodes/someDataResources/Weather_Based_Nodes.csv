@@ -1,0 +1,1345 @@
+id,name,type,dTime,energy_power
+1001,Photovoltaics Tech,photovoltaics,20210515-00:00,6.5
+1002,Solar Energy PV,photovoltaics,20210515-00:00,6.5
+1003,Giant Wind Power,wind_power,20210515-00:00,7.3
+1004,City consumption,consumption,20210515-00:00,-19.3
+1001,Photovoltaics Tech,photovoltaics,20210515-01:00,6.5
+1002,Solar Energy PV,photovoltaics,20210515-01:00,6.5
+1003,Giant Wind Power,wind_power,20210515-01:00,7.3
+1004,City consumption,consumption,20210515-01:00,-18.8
+1001,Photovoltaics Tech,photovoltaics,20210515-02:00,6.5
+1002,Solar Energy PV,photovoltaics,20210515-02:00,7.300000000000001
+1003,Giant Wind Power,wind_power,20210515-02:00,7.3
+1004,City consumption,consumption,20210515-02:00,-18.8
+1001,Photovoltaics Tech,photovoltaics,20210515-03:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210515-03:00,7.300000000000001
+1003,Giant Wind Power,wind_power,20210515-03:00,7.3
+1004,City consumption,consumption,20210515-03:00,-20.3
+1001,Photovoltaics Tech,photovoltaics,20210515-04:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210515-04:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210515-04:00,7.3
+1004,City consumption,consumption,20210515-04:00,-21.3
+1001,Photovoltaics Tech,photovoltaics,20210515-05:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210515-05:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210515-05:00,7.3
+1004,City consumption,consumption,20210515-05:00,-22.3
+1001,Photovoltaics Tech,photovoltaics,20210515-06:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-06:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210515-06:00,7.3
+1004,City consumption,consumption,20210515-06:00,-22.3
+1001,Photovoltaics Tech,photovoltaics,20210515-07:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-07:00,8.9
+1003,Giant Wind Power,wind_power,20210515-07:00,7.3
+1004,City consumption,consumption,20210515-07:00,-23.3
+1001,Photovoltaics Tech,photovoltaics,20210515-08:00,8.9
+1002,Solar Energy PV,photovoltaics,20210515-08:00,9.7
+1003,Giant Wind Power,wind_power,20210515-08:00,7.3
+1004,City consumption,consumption,20210515-08:00,-24.3
+1001,Photovoltaics Tech,photovoltaics,20210515-09:00,9.7
+1002,Solar Energy PV,photovoltaics,20210515-09:00,11.3
+1003,Giant Wind Power,wind_power,20210515-09:00,7.3
+1004,City consumption,consumption,20210515-09:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210515-10:00,10.5
+1002,Solar Energy PV,photovoltaics,20210515-10:00,12.9
+1003,Giant Wind Power,wind_power,20210515-10:00,7.3
+1004,City consumption,consumption,20210515-10:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-11:00,10.5
+1002,Solar Energy PV,photovoltaics,20210515-11:00,12.9
+1003,Giant Wind Power,wind_power,20210515-11:00,7.3
+1004,City consumption,consumption,20210515-11:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-12:00,11.3
+1002,Solar Energy PV,photovoltaics,20210515-12:00,12.100000000000001
+1003,Giant Wind Power,wind_power,20210515-12:00,7.3
+1004,City consumption,consumption,20210515-12:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-13:00,12.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-13:00,10.5
+1003,Giant Wind Power,wind_power,20210515-13:00,7.3
+1004,City consumption,consumption,20210515-13:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-14:00,12.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-14:00,10.5
+1003,Giant Wind Power,wind_power,20210515-14:00,7.3
+1004,City consumption,consumption,20210515-14:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-15:00,11.3
+1002,Solar Energy PV,photovoltaics,20210515-15:00,10.5
+1003,Giant Wind Power,wind_power,20210515-15:00,7.3
+1004,City consumption,consumption,20210515-15:00,-26.3
+1001,Photovoltaics Tech,photovoltaics,20210515-16:00,11.3
+1002,Solar Energy PV,photovoltaics,20210515-16:00,8.9
+1003,Giant Wind Power,wind_power,20210515-16:00,7.3
+1004,City consumption,consumption,20210515-16:00,-25.3
+1001,Photovoltaics Tech,photovoltaics,20210515-17:00,10.5
+1002,Solar Energy PV,photovoltaics,20210515-17:00,7.300000000000001
+1003,Giant Wind Power,wind_power,20210515-17:00,7.3
+1004,City consumption,consumption,20210515-17:00,-24.3
+1001,Photovoltaics Tech,photovoltaics,20210515-18:00,8.9
+1002,Solar Energy PV,photovoltaics,20210515-18:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210515-18:00,7.3
+1004,City consumption,consumption,20210515-18:00,-23.3
+1001,Photovoltaics Tech,photovoltaics,20210515-19:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-19:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210515-19:00,7.3
+1004,City consumption,consumption,20210515-19:00,-25.3
+1001,Photovoltaics Tech,photovoltaics,20210515-20:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210515-20:00,6.5
+1003,Giant Wind Power,wind_power,20210515-20:00,7.3
+1004,City consumption,consumption,20210515-20:00,-25.3
+1001,Photovoltaics Tech,photovoltaics,20210515-21:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210515-21:00,6.5
+1003,Giant Wind Power,wind_power,20210515-21:00,7.3
+1004,City consumption,consumption,20210515-21:00,-25.3
+1001,Photovoltaics Tech,photovoltaics,20210515-22:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210515-22:00,7.300000000000001
+1003,Giant Wind Power,wind_power,20210515-22:00,7.3
+1004,City consumption,consumption,20210515-22:00,-24.3
+1001,Photovoltaics Tech,photovoltaics,20210515-23:00,6.5
+1002,Solar Energy PV,photovoltaics,20210515-23:00,6.5
+1003,Giant Wind Power,wind_power,20210515-23:00,7.3
+1004,City consumption,consumption,20210515-23:00,-22.3
+1001,Photovoltaics Tech,photovoltaics,20210516-00:00,6.0
+1002,Solar Energy PV,photovoltaics,20210516-00:00,6.0
+1003,Giant Wind Power,wind_power,20210516-00:00,7.6000000000000005
+1004,City consumption,consumption,20210516-00:00,-19.2
+1001,Photovoltaics Tech,photovoltaics,20210516-01:00,6.0
+1002,Solar Energy PV,photovoltaics,20210516-01:00,6.0
+1003,Giant Wind Power,wind_power,20210516-01:00,7.6000000000000005
+1004,City consumption,consumption,20210516-01:00,-18.7
+1001,Photovoltaics Tech,photovoltaics,20210516-02:00,6.0
+1002,Solar Energy PV,photovoltaics,20210516-02:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210516-02:00,7.6000000000000005
+1004,City consumption,consumption,20210516-02:00,-18.7
+1001,Photovoltaics Tech,photovoltaics,20210516-03:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210516-03:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210516-03:00,7.6000000000000005
+1004,City consumption,consumption,20210516-03:00,-20.2
+1001,Photovoltaics Tech,photovoltaics,20210516-04:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210516-04:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210516-04:00,7.6000000000000005
+1004,City consumption,consumption,20210516-04:00,-21.2
+1001,Photovoltaics Tech,photovoltaics,20210516-05:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210516-05:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210516-05:00,7.6000000000000005
+1004,City consumption,consumption,20210516-05:00,-22.2
+1001,Photovoltaics Tech,photovoltaics,20210516-06:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210516-06:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210516-06:00,7.6000000000000005
+1004,City consumption,consumption,20210516-06:00,-22.2
+1001,Photovoltaics Tech,photovoltaics,20210516-07:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210516-07:00,8.4
+1003,Giant Wind Power,wind_power,20210516-07:00,7.6000000000000005
+1004,City consumption,consumption,20210516-07:00,-23.2
+1001,Photovoltaics Tech,photovoltaics,20210516-08:00,8.4
+1002,Solar Energy PV,photovoltaics,20210516-08:00,9.2
+1003,Giant Wind Power,wind_power,20210516-08:00,7.6000000000000005
+1004,City consumption,consumption,20210516-08:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210516-09:00,9.2
+1002,Solar Energy PV,photovoltaics,20210516-09:00,10.8
+1003,Giant Wind Power,wind_power,20210516-09:00,7.6000000000000005
+1004,City consumption,consumption,20210516-09:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210516-10:00,10.0
+1002,Solar Energy PV,photovoltaics,20210516-10:00,12.4
+1003,Giant Wind Power,wind_power,20210516-10:00,7.6000000000000005
+1004,City consumption,consumption,20210516-10:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-11:00,10.0
+1002,Solar Energy PV,photovoltaics,20210516-11:00,12.4
+1003,Giant Wind Power,wind_power,20210516-11:00,7.6000000000000005
+1004,City consumption,consumption,20210516-11:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-12:00,10.8
+1002,Solar Energy PV,photovoltaics,20210516-12:00,11.600000000000001
+1003,Giant Wind Power,wind_power,20210516-12:00,7.6000000000000005
+1004,City consumption,consumption,20210516-12:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-13:00,11.600000000000001
+1002,Solar Energy PV,photovoltaics,20210516-13:00,10.0
+1003,Giant Wind Power,wind_power,20210516-13:00,7.6000000000000005
+1004,City consumption,consumption,20210516-13:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-14:00,11.600000000000001
+1002,Solar Energy PV,photovoltaics,20210516-14:00,10.0
+1003,Giant Wind Power,wind_power,20210516-14:00,7.6000000000000005
+1004,City consumption,consumption,20210516-14:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-15:00,10.8
+1002,Solar Energy PV,photovoltaics,20210516-15:00,10.0
+1003,Giant Wind Power,wind_power,20210516-15:00,7.6000000000000005
+1004,City consumption,consumption,20210516-15:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210516-16:00,10.8
+1002,Solar Energy PV,photovoltaics,20210516-16:00,8.4
+1003,Giant Wind Power,wind_power,20210516-16:00,7.6000000000000005
+1004,City consumption,consumption,20210516-16:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210516-17:00,10.0
+1002,Solar Energy PV,photovoltaics,20210516-17:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210516-17:00,7.6000000000000005
+1004,City consumption,consumption,20210516-17:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210516-18:00,8.4
+1002,Solar Energy PV,photovoltaics,20210516-18:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210516-18:00,7.6000000000000005
+1004,City consumption,consumption,20210516-18:00,-23.2
+1001,Photovoltaics Tech,photovoltaics,20210516-19:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210516-19:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210516-19:00,7.6000000000000005
+1004,City consumption,consumption,20210516-19:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210516-20:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210516-20:00,6.0
+1003,Giant Wind Power,wind_power,20210516-20:00,7.6000000000000005
+1004,City consumption,consumption,20210516-20:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210516-21:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210516-21:00,6.0
+1003,Giant Wind Power,wind_power,20210516-21:00,7.6000000000000005
+1004,City consumption,consumption,20210516-21:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210516-22:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210516-22:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210516-22:00,7.6000000000000005
+1004,City consumption,consumption,20210516-22:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210516-23:00,6.0
+1002,Solar Energy PV,photovoltaics,20210516-23:00,6.0
+1003,Giant Wind Power,wind_power,20210516-23:00,7.6000000000000005
+1004,City consumption,consumption,20210516-23:00,-22.2
+1001,Photovoltaics Tech,photovoltaics,20210517-00:00,7.5
+1002,Solar Energy PV,photovoltaics,20210517-00:00,7.5
+1003,Giant Wind Power,wind_power,20210517-00:00,6.7
+1004,City consumption,consumption,20210517-00:00,-19.5
+1001,Photovoltaics Tech,photovoltaics,20210517-01:00,7.5
+1002,Solar Energy PV,photovoltaics,20210517-01:00,7.5
+1003,Giant Wind Power,wind_power,20210517-01:00,6.7
+1004,City consumption,consumption,20210517-01:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210517-02:00,7.5
+1002,Solar Energy PV,photovoltaics,20210517-02:00,8.3
+1003,Giant Wind Power,wind_power,20210517-02:00,6.7
+1004,City consumption,consumption,20210517-02:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210517-03:00,8.3
+1002,Solar Energy PV,photovoltaics,20210517-03:00,8.3
+1003,Giant Wind Power,wind_power,20210517-03:00,6.7
+1004,City consumption,consumption,20210517-03:00,-20.5
+1001,Photovoltaics Tech,photovoltaics,20210517-04:00,8.3
+1002,Solar Energy PV,photovoltaics,20210517-04:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210517-04:00,6.7
+1004,City consumption,consumption,20210517-04:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210517-05:00,8.3
+1002,Solar Energy PV,photovoltaics,20210517-05:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210517-05:00,6.7
+1004,City consumption,consumption,20210517-05:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210517-06:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-06:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210517-06:00,6.7
+1004,City consumption,consumption,20210517-06:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210517-07:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-07:00,9.9
+1003,Giant Wind Power,wind_power,20210517-07:00,6.7
+1004,City consumption,consumption,20210517-07:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210517-08:00,9.9
+1002,Solar Energy PV,photovoltaics,20210517-08:00,10.7
+1003,Giant Wind Power,wind_power,20210517-08:00,6.7
+1004,City consumption,consumption,20210517-08:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210517-09:00,10.7
+1002,Solar Energy PV,photovoltaics,20210517-09:00,12.3
+1003,Giant Wind Power,wind_power,20210517-09:00,6.7
+1004,City consumption,consumption,20210517-09:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210517-10:00,11.5
+1002,Solar Energy PV,photovoltaics,20210517-10:00,13.9
+1003,Giant Wind Power,wind_power,20210517-10:00,6.7
+1004,City consumption,consumption,20210517-10:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-11:00,11.5
+1002,Solar Energy PV,photovoltaics,20210517-11:00,13.9
+1003,Giant Wind Power,wind_power,20210517-11:00,6.7
+1004,City consumption,consumption,20210517-11:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-12:00,12.3
+1002,Solar Energy PV,photovoltaics,20210517-12:00,13.100000000000001
+1003,Giant Wind Power,wind_power,20210517-12:00,6.7
+1004,City consumption,consumption,20210517-12:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-13:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-13:00,11.5
+1003,Giant Wind Power,wind_power,20210517-13:00,6.7
+1004,City consumption,consumption,20210517-13:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-14:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-14:00,11.5
+1003,Giant Wind Power,wind_power,20210517-14:00,6.7
+1004,City consumption,consumption,20210517-14:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-15:00,12.3
+1002,Solar Energy PV,photovoltaics,20210517-15:00,11.5
+1003,Giant Wind Power,wind_power,20210517-15:00,6.7
+1004,City consumption,consumption,20210517-15:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210517-16:00,12.3
+1002,Solar Energy PV,photovoltaics,20210517-16:00,9.9
+1003,Giant Wind Power,wind_power,20210517-16:00,6.7
+1004,City consumption,consumption,20210517-16:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210517-17:00,11.5
+1002,Solar Energy PV,photovoltaics,20210517-17:00,8.3
+1003,Giant Wind Power,wind_power,20210517-17:00,6.7
+1004,City consumption,consumption,20210517-17:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210517-18:00,9.9
+1002,Solar Energy PV,photovoltaics,20210517-18:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210517-18:00,6.7
+1004,City consumption,consumption,20210517-18:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210517-19:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-19:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210517-19:00,6.7
+1004,City consumption,consumption,20210517-19:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210517-20:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210517-20:00,7.5
+1003,Giant Wind Power,wind_power,20210517-20:00,6.7
+1004,City consumption,consumption,20210517-20:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210517-21:00,8.3
+1002,Solar Energy PV,photovoltaics,20210517-21:00,7.5
+1003,Giant Wind Power,wind_power,20210517-21:00,6.7
+1004,City consumption,consumption,20210517-21:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210517-22:00,8.3
+1002,Solar Energy PV,photovoltaics,20210517-22:00,8.3
+1003,Giant Wind Power,wind_power,20210517-22:00,6.7
+1004,City consumption,consumption,20210517-22:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210517-23:00,7.5
+1002,Solar Energy PV,photovoltaics,20210517-23:00,7.5
+1003,Giant Wind Power,wind_power,20210517-23:00,6.7
+1004,City consumption,consumption,20210517-23:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210518-00:00,5.5
+1002,Solar Energy PV,photovoltaics,20210518-00:00,5.5
+1003,Giant Wind Power,wind_power,20210518-00:00,7.9
+1004,City consumption,consumption,20210518-00:00,-19.1
+1001,Photovoltaics Tech,photovoltaics,20210518-01:00,5.5
+1002,Solar Energy PV,photovoltaics,20210518-01:00,5.5
+1003,Giant Wind Power,wind_power,20210518-01:00,7.9
+1004,City consumption,consumption,20210518-01:00,-18.6
+1001,Photovoltaics Tech,photovoltaics,20210518-02:00,5.5
+1002,Solar Energy PV,photovoltaics,20210518-02:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210518-02:00,7.9
+1004,City consumption,consumption,20210518-02:00,-18.6
+1001,Photovoltaics Tech,photovoltaics,20210518-03:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210518-03:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210518-03:00,7.9
+1004,City consumption,consumption,20210518-03:00,-20.1
+1001,Photovoltaics Tech,photovoltaics,20210518-04:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210518-04:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210518-04:00,7.9
+1004,City consumption,consumption,20210518-04:00,-21.1
+1001,Photovoltaics Tech,photovoltaics,20210518-05:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210518-05:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210518-05:00,7.9
+1004,City consumption,consumption,20210518-05:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210518-06:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210518-06:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210518-06:00,7.9
+1004,City consumption,consumption,20210518-06:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210518-07:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210518-07:00,7.9
+1003,Giant Wind Power,wind_power,20210518-07:00,7.9
+1004,City consumption,consumption,20210518-07:00,-23.1
+1001,Photovoltaics Tech,photovoltaics,20210518-08:00,7.9
+1002,Solar Energy PV,photovoltaics,20210518-08:00,8.7
+1003,Giant Wind Power,wind_power,20210518-08:00,7.9
+1004,City consumption,consumption,20210518-08:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210518-09:00,8.7
+1002,Solar Energy PV,photovoltaics,20210518-09:00,10.3
+1003,Giant Wind Power,wind_power,20210518-09:00,7.9
+1004,City consumption,consumption,20210518-09:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210518-10:00,9.5
+1002,Solar Energy PV,photovoltaics,20210518-10:00,11.9
+1003,Giant Wind Power,wind_power,20210518-10:00,7.9
+1004,City consumption,consumption,20210518-10:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-11:00,9.5
+1002,Solar Energy PV,photovoltaics,20210518-11:00,11.9
+1003,Giant Wind Power,wind_power,20210518-11:00,7.9
+1004,City consumption,consumption,20210518-11:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-12:00,10.3
+1002,Solar Energy PV,photovoltaics,20210518-12:00,11.100000000000001
+1003,Giant Wind Power,wind_power,20210518-12:00,7.9
+1004,City consumption,consumption,20210518-12:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-13:00,11.100000000000001
+1002,Solar Energy PV,photovoltaics,20210518-13:00,9.5
+1003,Giant Wind Power,wind_power,20210518-13:00,7.9
+1004,City consumption,consumption,20210518-13:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-14:00,11.100000000000001
+1002,Solar Energy PV,photovoltaics,20210518-14:00,9.5
+1003,Giant Wind Power,wind_power,20210518-14:00,7.9
+1004,City consumption,consumption,20210518-14:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-15:00,10.3
+1002,Solar Energy PV,photovoltaics,20210518-15:00,9.5
+1003,Giant Wind Power,wind_power,20210518-15:00,7.9
+1004,City consumption,consumption,20210518-15:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210518-16:00,10.3
+1002,Solar Energy PV,photovoltaics,20210518-16:00,7.9
+1003,Giant Wind Power,wind_power,20210518-16:00,7.9
+1004,City consumption,consumption,20210518-16:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210518-17:00,9.5
+1002,Solar Energy PV,photovoltaics,20210518-17:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210518-17:00,7.9
+1004,City consumption,consumption,20210518-17:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210518-18:00,7.9
+1002,Solar Energy PV,photovoltaics,20210518-18:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210518-18:00,7.9
+1004,City consumption,consumption,20210518-18:00,-23.1
+1001,Photovoltaics Tech,photovoltaics,20210518-19:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210518-19:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210518-19:00,7.9
+1004,City consumption,consumption,20210518-19:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210518-20:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210518-20:00,5.5
+1003,Giant Wind Power,wind_power,20210518-20:00,7.9
+1004,City consumption,consumption,20210518-20:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210518-21:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210518-21:00,5.5
+1003,Giant Wind Power,wind_power,20210518-21:00,7.9
+1004,City consumption,consumption,20210518-21:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210518-22:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210518-22:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210518-22:00,7.9
+1004,City consumption,consumption,20210518-22:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210518-23:00,5.5
+1002,Solar Energy PV,photovoltaics,20210518-23:00,5.5
+1003,Giant Wind Power,wind_power,20210518-23:00,7.9
+1004,City consumption,consumption,20210518-23:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210519-00:00,3.0
+1002,Solar Energy PV,photovoltaics,20210519-00:00,3.0
+1003,Giant Wind Power,wind_power,20210519-00:00,9.399999999999999
+1004,City consumption,consumption,20210519-00:00,-18.6
+1001,Photovoltaics Tech,photovoltaics,20210519-01:00,3.0
+1002,Solar Energy PV,photovoltaics,20210519-01:00,3.0
+1003,Giant Wind Power,wind_power,20210519-01:00,9.399999999999999
+1004,City consumption,consumption,20210519-01:00,-18.1
+1001,Photovoltaics Tech,photovoltaics,20210519-02:00,3.0
+1002,Solar Energy PV,photovoltaics,20210519-02:00,3.8000000000000007
+1003,Giant Wind Power,wind_power,20210519-02:00,9.399999999999999
+1004,City consumption,consumption,20210519-02:00,-18.1
+1001,Photovoltaics Tech,photovoltaics,20210519-03:00,3.8000000000000007
+1002,Solar Energy PV,photovoltaics,20210519-03:00,3.8000000000000007
+1003,Giant Wind Power,wind_power,20210519-03:00,9.399999999999999
+1004,City consumption,consumption,20210519-03:00,-19.6
+1001,Photovoltaics Tech,photovoltaics,20210519-04:00,3.8000000000000007
+1002,Solar Energy PV,photovoltaics,20210519-04:00,4.6000000000000005
+1003,Giant Wind Power,wind_power,20210519-04:00,9.399999999999999
+1004,City consumption,consumption,20210519-04:00,-20.6
+1001,Photovoltaics Tech,photovoltaics,20210519-05:00,3.8000000000000007
+1002,Solar Energy PV,photovoltaics,20210519-05:00,4.6000000000000005
+1003,Giant Wind Power,wind_power,20210519-05:00,9.399999999999999
+1004,City consumption,consumption,20210519-05:00,-21.6
+1001,Photovoltaics Tech,photovoltaics,20210519-06:00,4.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210519-06:00,4.6000000000000005
+1003,Giant Wind Power,wind_power,20210519-06:00,9.399999999999999
+1004,City consumption,consumption,20210519-06:00,-21.6
+1001,Photovoltaics Tech,photovoltaics,20210519-07:00,4.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210519-07:00,5.4
+1003,Giant Wind Power,wind_power,20210519-07:00,9.399999999999999
+1004,City consumption,consumption,20210519-07:00,-22.6
+1001,Photovoltaics Tech,photovoltaics,20210519-08:00,5.4
+1002,Solar Energy PV,photovoltaics,20210519-08:00,6.2
+1003,Giant Wind Power,wind_power,20210519-08:00,9.399999999999999
+1004,City consumption,consumption,20210519-08:00,-23.6
+1001,Photovoltaics Tech,photovoltaics,20210519-09:00,6.2
+1002,Solar Energy PV,photovoltaics,20210519-09:00,7.800000000000001
+1003,Giant Wind Power,wind_power,20210519-09:00,9.399999999999999
+1004,City consumption,consumption,20210519-09:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210519-10:00,7.0
+1002,Solar Energy PV,photovoltaics,20210519-10:00,9.4
+1003,Giant Wind Power,wind_power,20210519-10:00,9.399999999999999
+1004,City consumption,consumption,20210519-10:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-11:00,7.0
+1002,Solar Energy PV,photovoltaics,20210519-11:00,9.4
+1003,Giant Wind Power,wind_power,20210519-11:00,9.399999999999999
+1004,City consumption,consumption,20210519-11:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-12:00,7.800000000000001
+1002,Solar Energy PV,photovoltaics,20210519-12:00,8.600000000000001
+1003,Giant Wind Power,wind_power,20210519-12:00,9.399999999999999
+1004,City consumption,consumption,20210519-12:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-13:00,8.600000000000001
+1002,Solar Energy PV,photovoltaics,20210519-13:00,7.0
+1003,Giant Wind Power,wind_power,20210519-13:00,9.399999999999999
+1004,City consumption,consumption,20210519-13:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-14:00,8.600000000000001
+1002,Solar Energy PV,photovoltaics,20210519-14:00,7.0
+1003,Giant Wind Power,wind_power,20210519-14:00,9.399999999999999
+1004,City consumption,consumption,20210519-14:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-15:00,7.800000000000001
+1002,Solar Energy PV,photovoltaics,20210519-15:00,7.0
+1003,Giant Wind Power,wind_power,20210519-15:00,9.399999999999999
+1004,City consumption,consumption,20210519-15:00,-25.6
+1001,Photovoltaics Tech,photovoltaics,20210519-16:00,7.800000000000001
+1002,Solar Energy PV,photovoltaics,20210519-16:00,5.4
+1003,Giant Wind Power,wind_power,20210519-16:00,9.399999999999999
+1004,City consumption,consumption,20210519-16:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210519-17:00,7.0
+1002,Solar Energy PV,photovoltaics,20210519-17:00,3.8000000000000007
+1003,Giant Wind Power,wind_power,20210519-17:00,9.399999999999999
+1004,City consumption,consumption,20210519-17:00,-23.6
+1001,Photovoltaics Tech,photovoltaics,20210519-18:00,5.4
+1002,Solar Energy PV,photovoltaics,20210519-18:00,4.6000000000000005
+1003,Giant Wind Power,wind_power,20210519-18:00,9.399999999999999
+1004,City consumption,consumption,20210519-18:00,-22.6
+1001,Photovoltaics Tech,photovoltaics,20210519-19:00,4.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210519-19:00,4.6000000000000005
+1003,Giant Wind Power,wind_power,20210519-19:00,9.399999999999999
+1004,City consumption,consumption,20210519-19:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210519-20:00,4.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210519-20:00,3.0
+1003,Giant Wind Power,wind_power,20210519-20:00,9.399999999999999
+1004,City consumption,consumption,20210519-20:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210519-21:00,3.8000000000000007
+1002,Solar Energy PV,photovoltaics,20210519-21:00,3.0
+1003,Giant Wind Power,wind_power,20210519-21:00,9.399999999999999
+1004,City consumption,consumption,20210519-21:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210519-22:00,3.8000000000000007
+1002,Solar Energy PV,photovoltaics,20210519-22:00,3.8000000000000007
+1003,Giant Wind Power,wind_power,20210519-22:00,9.399999999999999
+1004,City consumption,consumption,20210519-22:00,-23.6
+1001,Photovoltaics Tech,photovoltaics,20210519-23:00,3.0
+1002,Solar Energy PV,photovoltaics,20210519-23:00,3.0
+1003,Giant Wind Power,wind_power,20210519-23:00,9.399999999999999
+1004,City consumption,consumption,20210519-23:00,-21.6
+1001,Photovoltaics Tech,photovoltaics,20210520-00:00,2.5
+1002,Solar Energy PV,photovoltaics,20210520-00:00,2.5
+1003,Giant Wind Power,wind_power,20210520-00:00,9.7
+1004,City consumption,consumption,20210520-00:00,-18.5
+1001,Photovoltaics Tech,photovoltaics,20210520-01:00,2.5
+1002,Solar Energy PV,photovoltaics,20210520-01:00,2.5
+1003,Giant Wind Power,wind_power,20210520-01:00,9.7
+1004,City consumption,consumption,20210520-01:00,-18.0
+1001,Photovoltaics Tech,photovoltaics,20210520-02:00,2.5
+1002,Solar Energy PV,photovoltaics,20210520-02:00,3.3000000000000007
+1003,Giant Wind Power,wind_power,20210520-02:00,9.7
+1004,City consumption,consumption,20210520-02:00,-18.0
+1001,Photovoltaics Tech,photovoltaics,20210520-03:00,3.3000000000000007
+1002,Solar Energy PV,photovoltaics,20210520-03:00,3.3000000000000007
+1003,Giant Wind Power,wind_power,20210520-03:00,9.7
+1004,City consumption,consumption,20210520-03:00,-19.5
+1001,Photovoltaics Tech,photovoltaics,20210520-04:00,3.3000000000000007
+1002,Solar Energy PV,photovoltaics,20210520-04:00,4.1000000000000005
+1003,Giant Wind Power,wind_power,20210520-04:00,9.7
+1004,City consumption,consumption,20210520-04:00,-20.5
+1001,Photovoltaics Tech,photovoltaics,20210520-05:00,3.3000000000000007
+1002,Solar Energy PV,photovoltaics,20210520-05:00,4.1000000000000005
+1003,Giant Wind Power,wind_power,20210520-05:00,9.7
+1004,City consumption,consumption,20210520-05:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210520-06:00,4.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210520-06:00,4.1000000000000005
+1003,Giant Wind Power,wind_power,20210520-06:00,9.7
+1004,City consumption,consumption,20210520-06:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210520-07:00,4.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210520-07:00,4.9
+1003,Giant Wind Power,wind_power,20210520-07:00,9.7
+1004,City consumption,consumption,20210520-07:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210520-08:00,4.9
+1002,Solar Energy PV,photovoltaics,20210520-08:00,5.7
+1003,Giant Wind Power,wind_power,20210520-08:00,9.7
+1004,City consumption,consumption,20210520-08:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210520-09:00,5.7
+1002,Solar Energy PV,photovoltaics,20210520-09:00,7.300000000000001
+1003,Giant Wind Power,wind_power,20210520-09:00,9.7
+1004,City consumption,consumption,20210520-09:00,-24.0
+1001,Photovoltaics Tech,photovoltaics,20210520-10:00,6.5
+1002,Solar Energy PV,photovoltaics,20210520-10:00,8.9
+1003,Giant Wind Power,wind_power,20210520-10:00,9.7
+1004,City consumption,consumption,20210520-10:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-11:00,6.5
+1002,Solar Energy PV,photovoltaics,20210520-11:00,8.9
+1003,Giant Wind Power,wind_power,20210520-11:00,9.7
+1004,City consumption,consumption,20210520-11:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-12:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210520-12:00,8.100000000000001
+1003,Giant Wind Power,wind_power,20210520-12:00,9.7
+1004,City consumption,consumption,20210520-12:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-13:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210520-13:00,6.5
+1003,Giant Wind Power,wind_power,20210520-13:00,9.7
+1004,City consumption,consumption,20210520-13:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-14:00,8.100000000000001
+1002,Solar Energy PV,photovoltaics,20210520-14:00,6.5
+1003,Giant Wind Power,wind_power,20210520-14:00,9.7
+1004,City consumption,consumption,20210520-14:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-15:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210520-15:00,6.5
+1003,Giant Wind Power,wind_power,20210520-15:00,9.7
+1004,City consumption,consumption,20210520-15:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210520-16:00,7.300000000000001
+1002,Solar Energy PV,photovoltaics,20210520-16:00,4.9
+1003,Giant Wind Power,wind_power,20210520-16:00,9.7
+1004,City consumption,consumption,20210520-16:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210520-17:00,6.5
+1002,Solar Energy PV,photovoltaics,20210520-17:00,3.3000000000000007
+1003,Giant Wind Power,wind_power,20210520-17:00,9.7
+1004,City consumption,consumption,20210520-17:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210520-18:00,4.9
+1002,Solar Energy PV,photovoltaics,20210520-18:00,4.1000000000000005
+1003,Giant Wind Power,wind_power,20210520-18:00,9.7
+1004,City consumption,consumption,20210520-18:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210520-19:00,4.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210520-19:00,4.1000000000000005
+1003,Giant Wind Power,wind_power,20210520-19:00,9.7
+1004,City consumption,consumption,20210520-19:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210520-20:00,4.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210520-20:00,2.5
+1003,Giant Wind Power,wind_power,20210520-20:00,9.7
+1004,City consumption,consumption,20210520-20:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210520-21:00,3.3000000000000007
+1002,Solar Energy PV,photovoltaics,20210520-21:00,2.5
+1003,Giant Wind Power,wind_power,20210520-21:00,9.7
+1004,City consumption,consumption,20210520-21:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210520-22:00,3.3000000000000007
+1002,Solar Energy PV,photovoltaics,20210520-22:00,3.3000000000000007
+1003,Giant Wind Power,wind_power,20210520-22:00,9.7
+1004,City consumption,consumption,20210520-22:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210520-23:00,2.5
+1002,Solar Energy PV,photovoltaics,20210520-23:00,2.5
+1003,Giant Wind Power,wind_power,20210520-23:00,9.7
+1004,City consumption,consumption,20210520-23:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210521-00:00,5.5
+1002,Solar Energy PV,photovoltaics,20210521-00:00,5.5
+1003,Giant Wind Power,wind_power,20210521-00:00,7.9
+1004,City consumption,consumption,20210521-00:00,-19.1
+1001,Photovoltaics Tech,photovoltaics,20210521-01:00,5.5
+1002,Solar Energy PV,photovoltaics,20210521-01:00,5.5
+1003,Giant Wind Power,wind_power,20210521-01:00,7.9
+1004,City consumption,consumption,20210521-01:00,-18.6
+1001,Photovoltaics Tech,photovoltaics,20210521-02:00,5.5
+1002,Solar Energy PV,photovoltaics,20210521-02:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210521-02:00,7.9
+1004,City consumption,consumption,20210521-02:00,-18.6
+1001,Photovoltaics Tech,photovoltaics,20210521-03:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210521-03:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210521-03:00,7.9
+1004,City consumption,consumption,20210521-03:00,-20.1
+1001,Photovoltaics Tech,photovoltaics,20210521-04:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210521-04:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210521-04:00,7.9
+1004,City consumption,consumption,20210521-04:00,-21.1
+1001,Photovoltaics Tech,photovoltaics,20210521-05:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210521-05:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210521-05:00,7.9
+1004,City consumption,consumption,20210521-05:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210521-06:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210521-06:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210521-06:00,7.9
+1004,City consumption,consumption,20210521-06:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210521-07:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210521-07:00,7.9
+1003,Giant Wind Power,wind_power,20210521-07:00,7.9
+1004,City consumption,consumption,20210521-07:00,-23.1
+1001,Photovoltaics Tech,photovoltaics,20210521-08:00,7.9
+1002,Solar Energy PV,photovoltaics,20210521-08:00,8.7
+1003,Giant Wind Power,wind_power,20210521-08:00,7.9
+1004,City consumption,consumption,20210521-08:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210521-09:00,8.7
+1002,Solar Energy PV,photovoltaics,20210521-09:00,10.3
+1003,Giant Wind Power,wind_power,20210521-09:00,7.9
+1004,City consumption,consumption,20210521-09:00,-24.6
+1001,Photovoltaics Tech,photovoltaics,20210521-10:00,9.5
+1002,Solar Energy PV,photovoltaics,20210521-10:00,11.9
+1003,Giant Wind Power,wind_power,20210521-10:00,7.9
+1004,City consumption,consumption,20210521-10:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-11:00,9.5
+1002,Solar Energy PV,photovoltaics,20210521-11:00,11.9
+1003,Giant Wind Power,wind_power,20210521-11:00,7.9
+1004,City consumption,consumption,20210521-11:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-12:00,10.3
+1002,Solar Energy PV,photovoltaics,20210521-12:00,11.100000000000001
+1003,Giant Wind Power,wind_power,20210521-12:00,7.9
+1004,City consumption,consumption,20210521-12:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-13:00,11.100000000000001
+1002,Solar Energy PV,photovoltaics,20210521-13:00,9.5
+1003,Giant Wind Power,wind_power,20210521-13:00,7.9
+1004,City consumption,consumption,20210521-13:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-14:00,11.100000000000001
+1002,Solar Energy PV,photovoltaics,20210521-14:00,9.5
+1003,Giant Wind Power,wind_power,20210521-14:00,7.9
+1004,City consumption,consumption,20210521-14:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-15:00,10.3
+1002,Solar Energy PV,photovoltaics,20210521-15:00,9.5
+1003,Giant Wind Power,wind_power,20210521-15:00,7.9
+1004,City consumption,consumption,20210521-15:00,-26.1
+1001,Photovoltaics Tech,photovoltaics,20210521-16:00,10.3
+1002,Solar Energy PV,photovoltaics,20210521-16:00,7.9
+1003,Giant Wind Power,wind_power,20210521-16:00,7.9
+1004,City consumption,consumption,20210521-16:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210521-17:00,9.5
+1002,Solar Energy PV,photovoltaics,20210521-17:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210521-17:00,7.9
+1004,City consumption,consumption,20210521-17:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210521-18:00,7.9
+1002,Solar Energy PV,photovoltaics,20210521-18:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210521-18:00,7.9
+1004,City consumption,consumption,20210521-18:00,-23.1
+1001,Photovoltaics Tech,photovoltaics,20210521-19:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210521-19:00,7.1000000000000005
+1003,Giant Wind Power,wind_power,20210521-19:00,7.9
+1004,City consumption,consumption,20210521-19:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210521-20:00,7.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210521-20:00,5.5
+1003,Giant Wind Power,wind_power,20210521-20:00,7.9
+1004,City consumption,consumption,20210521-20:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210521-21:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210521-21:00,5.5
+1003,Giant Wind Power,wind_power,20210521-21:00,7.9
+1004,City consumption,consumption,20210521-21:00,-25.1
+1001,Photovoltaics Tech,photovoltaics,20210521-22:00,6.300000000000001
+1002,Solar Energy PV,photovoltaics,20210521-22:00,6.300000000000001
+1003,Giant Wind Power,wind_power,20210521-22:00,7.9
+1004,City consumption,consumption,20210521-22:00,-24.1
+1001,Photovoltaics Tech,photovoltaics,20210521-23:00,5.5
+1002,Solar Energy PV,photovoltaics,20210521-23:00,5.5
+1003,Giant Wind Power,wind_power,20210521-23:00,7.9
+1004,City consumption,consumption,20210521-23:00,-22.1
+1001,Photovoltaics Tech,photovoltaics,20210522-00:00,5.0
+1002,Solar Energy PV,photovoltaics,20210522-00:00,5.0
+1003,Giant Wind Power,wind_power,20210522-00:00,8.2
+1004,City consumption,consumption,20210522-00:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210522-01:00,5.0
+1002,Solar Energy PV,photovoltaics,20210522-01:00,5.0
+1003,Giant Wind Power,wind_power,20210522-01:00,8.2
+1004,City consumption,consumption,20210522-01:00,-18.5
+1001,Photovoltaics Tech,photovoltaics,20210522-02:00,5.0
+1002,Solar Energy PV,photovoltaics,20210522-02:00,5.800000000000001
+1003,Giant Wind Power,wind_power,20210522-02:00,8.2
+1004,City consumption,consumption,20210522-02:00,-18.5
+1001,Photovoltaics Tech,photovoltaics,20210522-03:00,5.800000000000001
+1002,Solar Energy PV,photovoltaics,20210522-03:00,5.800000000000001
+1003,Giant Wind Power,wind_power,20210522-03:00,8.2
+1004,City consumption,consumption,20210522-03:00,-20.0
+1001,Photovoltaics Tech,photovoltaics,20210522-04:00,5.800000000000001
+1002,Solar Energy PV,photovoltaics,20210522-04:00,6.6000000000000005
+1003,Giant Wind Power,wind_power,20210522-04:00,8.2
+1004,City consumption,consumption,20210522-04:00,-21.0
+1001,Photovoltaics Tech,photovoltaics,20210522-05:00,5.800000000000001
+1002,Solar Energy PV,photovoltaics,20210522-05:00,6.6000000000000005
+1003,Giant Wind Power,wind_power,20210522-05:00,8.2
+1004,City consumption,consumption,20210522-05:00,-22.0
+1001,Photovoltaics Tech,photovoltaics,20210522-06:00,6.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210522-06:00,6.6000000000000005
+1003,Giant Wind Power,wind_power,20210522-06:00,8.2
+1004,City consumption,consumption,20210522-06:00,-22.0
+1001,Photovoltaics Tech,photovoltaics,20210522-07:00,6.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210522-07:00,7.4
+1003,Giant Wind Power,wind_power,20210522-07:00,8.2
+1004,City consumption,consumption,20210522-07:00,-23.0
+1001,Photovoltaics Tech,photovoltaics,20210522-08:00,7.4
+1002,Solar Energy PV,photovoltaics,20210522-08:00,8.2
+1003,Giant Wind Power,wind_power,20210522-08:00,8.2
+1004,City consumption,consumption,20210522-08:00,-24.0
+1001,Photovoltaics Tech,photovoltaics,20210522-09:00,8.2
+1002,Solar Energy PV,photovoltaics,20210522-09:00,9.8
+1003,Giant Wind Power,wind_power,20210522-09:00,8.2
+1004,City consumption,consumption,20210522-09:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210522-10:00,9.0
+1002,Solar Energy PV,photovoltaics,20210522-10:00,11.4
+1003,Giant Wind Power,wind_power,20210522-10:00,8.2
+1004,City consumption,consumption,20210522-10:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-11:00,9.0
+1002,Solar Energy PV,photovoltaics,20210522-11:00,11.4
+1003,Giant Wind Power,wind_power,20210522-11:00,8.2
+1004,City consumption,consumption,20210522-11:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-12:00,9.8
+1002,Solar Energy PV,photovoltaics,20210522-12:00,10.600000000000001
+1003,Giant Wind Power,wind_power,20210522-12:00,8.2
+1004,City consumption,consumption,20210522-12:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-13:00,10.600000000000001
+1002,Solar Energy PV,photovoltaics,20210522-13:00,9.0
+1003,Giant Wind Power,wind_power,20210522-13:00,8.2
+1004,City consumption,consumption,20210522-13:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-14:00,10.600000000000001
+1002,Solar Energy PV,photovoltaics,20210522-14:00,9.0
+1003,Giant Wind Power,wind_power,20210522-14:00,8.2
+1004,City consumption,consumption,20210522-14:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-15:00,9.8
+1002,Solar Energy PV,photovoltaics,20210522-15:00,9.0
+1003,Giant Wind Power,wind_power,20210522-15:00,8.2
+1004,City consumption,consumption,20210522-15:00,-26.0
+1001,Photovoltaics Tech,photovoltaics,20210522-16:00,9.8
+1002,Solar Energy PV,photovoltaics,20210522-16:00,7.4
+1003,Giant Wind Power,wind_power,20210522-16:00,8.2
+1004,City consumption,consumption,20210522-16:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210522-17:00,9.0
+1002,Solar Energy PV,photovoltaics,20210522-17:00,5.800000000000001
+1003,Giant Wind Power,wind_power,20210522-17:00,8.2
+1004,City consumption,consumption,20210522-17:00,-24.0
+1001,Photovoltaics Tech,photovoltaics,20210522-18:00,7.4
+1002,Solar Energy PV,photovoltaics,20210522-18:00,6.6000000000000005
+1003,Giant Wind Power,wind_power,20210522-18:00,8.2
+1004,City consumption,consumption,20210522-18:00,-23.0
+1001,Photovoltaics Tech,photovoltaics,20210522-19:00,6.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210522-19:00,6.6000000000000005
+1003,Giant Wind Power,wind_power,20210522-19:00,8.2
+1004,City consumption,consumption,20210522-19:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210522-20:00,6.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210522-20:00,5.0
+1003,Giant Wind Power,wind_power,20210522-20:00,8.2
+1004,City consumption,consumption,20210522-20:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210522-21:00,5.800000000000001
+1002,Solar Energy PV,photovoltaics,20210522-21:00,5.0
+1003,Giant Wind Power,wind_power,20210522-21:00,8.2
+1004,City consumption,consumption,20210522-21:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210522-22:00,5.800000000000001
+1002,Solar Energy PV,photovoltaics,20210522-22:00,5.800000000000001
+1003,Giant Wind Power,wind_power,20210522-22:00,8.2
+1004,City consumption,consumption,20210522-22:00,-24.0
+1001,Photovoltaics Tech,photovoltaics,20210522-23:00,5.0
+1002,Solar Energy PV,photovoltaics,20210522-23:00,5.0
+1003,Giant Wind Power,wind_power,20210522-23:00,8.2
+1004,City consumption,consumption,20210522-23:00,-22.0
+1001,Photovoltaics Tech,photovoltaics,20210523-00:00,4.0
+1002,Solar Energy PV,photovoltaics,20210523-00:00,4.0
+1003,Giant Wind Power,wind_power,20210523-00:00,8.799999999999999
+1004,City consumption,consumption,20210523-00:00,-18.8
+1001,Photovoltaics Tech,photovoltaics,20210523-01:00,4.0
+1002,Solar Energy PV,photovoltaics,20210523-01:00,4.0
+1003,Giant Wind Power,wind_power,20210523-01:00,8.799999999999999
+1004,City consumption,consumption,20210523-01:00,-18.3
+1001,Photovoltaics Tech,photovoltaics,20210523-02:00,4.0
+1002,Solar Energy PV,photovoltaics,20210523-02:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210523-02:00,8.799999999999999
+1004,City consumption,consumption,20210523-02:00,-18.3
+1001,Photovoltaics Tech,photovoltaics,20210523-03:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210523-03:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210523-03:00,8.799999999999999
+1004,City consumption,consumption,20210523-03:00,-19.8
+1001,Photovoltaics Tech,photovoltaics,20210523-04:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210523-04:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210523-04:00,8.799999999999999
+1004,City consumption,consumption,20210523-04:00,-20.8
+1001,Photovoltaics Tech,photovoltaics,20210523-05:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210523-05:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210523-05:00,8.799999999999999
+1004,City consumption,consumption,20210523-05:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210523-06:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210523-06:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210523-06:00,8.799999999999999
+1004,City consumption,consumption,20210523-06:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210523-07:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210523-07:00,6.4
+1003,Giant Wind Power,wind_power,20210523-07:00,8.799999999999999
+1004,City consumption,consumption,20210523-07:00,-22.8
+1001,Photovoltaics Tech,photovoltaics,20210523-08:00,6.4
+1002,Solar Energy PV,photovoltaics,20210523-08:00,7.2
+1003,Giant Wind Power,wind_power,20210523-08:00,8.799999999999999
+1004,City consumption,consumption,20210523-08:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210523-09:00,7.2
+1002,Solar Energy PV,photovoltaics,20210523-09:00,8.8
+1003,Giant Wind Power,wind_power,20210523-09:00,8.799999999999999
+1004,City consumption,consumption,20210523-09:00,-24.3
+1001,Photovoltaics Tech,photovoltaics,20210523-10:00,8.0
+1002,Solar Energy PV,photovoltaics,20210523-10:00,10.4
+1003,Giant Wind Power,wind_power,20210523-10:00,8.799999999999999
+1004,City consumption,consumption,20210523-10:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-11:00,8.0
+1002,Solar Energy PV,photovoltaics,20210523-11:00,10.4
+1003,Giant Wind Power,wind_power,20210523-11:00,8.799999999999999
+1004,City consumption,consumption,20210523-11:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-12:00,8.8
+1002,Solar Energy PV,photovoltaics,20210523-12:00,9.600000000000001
+1003,Giant Wind Power,wind_power,20210523-12:00,8.799999999999999
+1004,City consumption,consumption,20210523-12:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-13:00,9.600000000000001
+1002,Solar Energy PV,photovoltaics,20210523-13:00,8.0
+1003,Giant Wind Power,wind_power,20210523-13:00,8.799999999999999
+1004,City consumption,consumption,20210523-13:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-14:00,9.600000000000001
+1002,Solar Energy PV,photovoltaics,20210523-14:00,8.0
+1003,Giant Wind Power,wind_power,20210523-14:00,8.799999999999999
+1004,City consumption,consumption,20210523-14:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-15:00,8.8
+1002,Solar Energy PV,photovoltaics,20210523-15:00,8.0
+1003,Giant Wind Power,wind_power,20210523-15:00,8.799999999999999
+1004,City consumption,consumption,20210523-15:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210523-16:00,8.8
+1002,Solar Energy PV,photovoltaics,20210523-16:00,6.4
+1003,Giant Wind Power,wind_power,20210523-16:00,8.799999999999999
+1004,City consumption,consumption,20210523-16:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210523-17:00,8.0
+1002,Solar Energy PV,photovoltaics,20210523-17:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210523-17:00,8.799999999999999
+1004,City consumption,consumption,20210523-17:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210523-18:00,6.4
+1002,Solar Energy PV,photovoltaics,20210523-18:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210523-18:00,8.799999999999999
+1004,City consumption,consumption,20210523-18:00,-22.8
+1001,Photovoltaics Tech,photovoltaics,20210523-19:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210523-19:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210523-19:00,8.799999999999999
+1004,City consumption,consumption,20210523-19:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210523-20:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210523-20:00,4.0
+1003,Giant Wind Power,wind_power,20210523-20:00,8.799999999999999
+1004,City consumption,consumption,20210523-20:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210523-21:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210523-21:00,4.0
+1003,Giant Wind Power,wind_power,20210523-21:00,8.799999999999999
+1004,City consumption,consumption,20210523-21:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210523-22:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210523-22:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210523-22:00,8.799999999999999
+1004,City consumption,consumption,20210523-22:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210523-23:00,4.0
+1002,Solar Energy PV,photovoltaics,20210523-23:00,4.0
+1003,Giant Wind Power,wind_power,20210523-23:00,8.799999999999999
+1004,City consumption,consumption,20210523-23:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210524-00:00,4.0
+1002,Solar Energy PV,photovoltaics,20210524-00:00,4.0
+1003,Giant Wind Power,wind_power,20210524-00:00,8.799999999999999
+1004,City consumption,consumption,20210524-00:00,-18.8
+1001,Photovoltaics Tech,photovoltaics,20210524-01:00,4.0
+1002,Solar Energy PV,photovoltaics,20210524-01:00,4.0
+1003,Giant Wind Power,wind_power,20210524-01:00,8.799999999999999
+1004,City consumption,consumption,20210524-01:00,-18.3
+1001,Photovoltaics Tech,photovoltaics,20210524-02:00,4.0
+1002,Solar Energy PV,photovoltaics,20210524-02:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210524-02:00,8.799999999999999
+1004,City consumption,consumption,20210524-02:00,-18.3
+1001,Photovoltaics Tech,photovoltaics,20210524-03:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210524-03:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210524-03:00,8.799999999999999
+1004,City consumption,consumption,20210524-03:00,-19.8
+1001,Photovoltaics Tech,photovoltaics,20210524-04:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210524-04:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210524-04:00,8.799999999999999
+1004,City consumption,consumption,20210524-04:00,-20.8
+1001,Photovoltaics Tech,photovoltaics,20210524-05:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210524-05:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210524-05:00,8.799999999999999
+1004,City consumption,consumption,20210524-05:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210524-06:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210524-06:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210524-06:00,8.799999999999999
+1004,City consumption,consumption,20210524-06:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210524-07:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210524-07:00,6.4
+1003,Giant Wind Power,wind_power,20210524-07:00,8.799999999999999
+1004,City consumption,consumption,20210524-07:00,-22.8
+1001,Photovoltaics Tech,photovoltaics,20210524-08:00,6.4
+1002,Solar Energy PV,photovoltaics,20210524-08:00,7.2
+1003,Giant Wind Power,wind_power,20210524-08:00,8.799999999999999
+1004,City consumption,consumption,20210524-08:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210524-09:00,7.2
+1002,Solar Energy PV,photovoltaics,20210524-09:00,8.8
+1003,Giant Wind Power,wind_power,20210524-09:00,8.799999999999999
+1004,City consumption,consumption,20210524-09:00,-24.3
+1001,Photovoltaics Tech,photovoltaics,20210524-10:00,8.0
+1002,Solar Energy PV,photovoltaics,20210524-10:00,10.4
+1003,Giant Wind Power,wind_power,20210524-10:00,8.799999999999999
+1004,City consumption,consumption,20210524-10:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-11:00,8.0
+1002,Solar Energy PV,photovoltaics,20210524-11:00,10.4
+1003,Giant Wind Power,wind_power,20210524-11:00,8.799999999999999
+1004,City consumption,consumption,20210524-11:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-12:00,8.8
+1002,Solar Energy PV,photovoltaics,20210524-12:00,9.600000000000001
+1003,Giant Wind Power,wind_power,20210524-12:00,8.799999999999999
+1004,City consumption,consumption,20210524-12:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-13:00,9.600000000000001
+1002,Solar Energy PV,photovoltaics,20210524-13:00,8.0
+1003,Giant Wind Power,wind_power,20210524-13:00,8.799999999999999
+1004,City consumption,consumption,20210524-13:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-14:00,9.600000000000001
+1002,Solar Energy PV,photovoltaics,20210524-14:00,8.0
+1003,Giant Wind Power,wind_power,20210524-14:00,8.799999999999999
+1004,City consumption,consumption,20210524-14:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-15:00,8.8
+1002,Solar Energy PV,photovoltaics,20210524-15:00,8.0
+1003,Giant Wind Power,wind_power,20210524-15:00,8.799999999999999
+1004,City consumption,consumption,20210524-15:00,-25.8
+1001,Photovoltaics Tech,photovoltaics,20210524-16:00,8.8
+1002,Solar Energy PV,photovoltaics,20210524-16:00,6.4
+1003,Giant Wind Power,wind_power,20210524-16:00,8.799999999999999
+1004,City consumption,consumption,20210524-16:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210524-17:00,8.0
+1002,Solar Energy PV,photovoltaics,20210524-17:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210524-17:00,8.799999999999999
+1004,City consumption,consumption,20210524-17:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210524-18:00,6.4
+1002,Solar Energy PV,photovoltaics,20210524-18:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210524-18:00,8.799999999999999
+1004,City consumption,consumption,20210524-18:00,-22.8
+1001,Photovoltaics Tech,photovoltaics,20210524-19:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210524-19:00,5.6000000000000005
+1003,Giant Wind Power,wind_power,20210524-19:00,8.799999999999999
+1004,City consumption,consumption,20210524-19:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210524-20:00,5.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210524-20:00,4.0
+1003,Giant Wind Power,wind_power,20210524-20:00,8.799999999999999
+1004,City consumption,consumption,20210524-20:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210524-21:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210524-21:00,4.0
+1003,Giant Wind Power,wind_power,20210524-21:00,8.799999999999999
+1004,City consumption,consumption,20210524-21:00,-24.8
+1001,Photovoltaics Tech,photovoltaics,20210524-22:00,4.800000000000001
+1002,Solar Energy PV,photovoltaics,20210524-22:00,4.800000000000001
+1003,Giant Wind Power,wind_power,20210524-22:00,8.799999999999999
+1004,City consumption,consumption,20210524-22:00,-23.8
+1001,Photovoltaics Tech,photovoltaics,20210524-23:00,4.0
+1002,Solar Energy PV,photovoltaics,20210524-23:00,4.0
+1003,Giant Wind Power,wind_power,20210524-23:00,8.799999999999999
+1004,City consumption,consumption,20210524-23:00,-21.8
+1001,Photovoltaics Tech,photovoltaics,20210525-00:00,3.5
+1002,Solar Energy PV,photovoltaics,20210525-00:00,3.5
+1003,Giant Wind Power,wind_power,20210525-00:00,9.1
+1004,City consumption,consumption,20210525-00:00,-18.7
+1001,Photovoltaics Tech,photovoltaics,20210525-01:00,3.5
+1002,Solar Energy PV,photovoltaics,20210525-01:00,3.5
+1003,Giant Wind Power,wind_power,20210525-01:00,9.1
+1004,City consumption,consumption,20210525-01:00,-18.2
+1001,Photovoltaics Tech,photovoltaics,20210525-02:00,3.5
+1002,Solar Energy PV,photovoltaics,20210525-02:00,4.300000000000001
+1003,Giant Wind Power,wind_power,20210525-02:00,9.1
+1004,City consumption,consumption,20210525-02:00,-18.2
+1001,Photovoltaics Tech,photovoltaics,20210525-03:00,4.300000000000001
+1002,Solar Energy PV,photovoltaics,20210525-03:00,4.300000000000001
+1003,Giant Wind Power,wind_power,20210525-03:00,9.1
+1004,City consumption,consumption,20210525-03:00,-19.7
+1001,Photovoltaics Tech,photovoltaics,20210525-04:00,4.300000000000001
+1002,Solar Energy PV,photovoltaics,20210525-04:00,5.1000000000000005
+1003,Giant Wind Power,wind_power,20210525-04:00,9.1
+1004,City consumption,consumption,20210525-04:00,-20.7
+1001,Photovoltaics Tech,photovoltaics,20210525-05:00,4.300000000000001
+1002,Solar Energy PV,photovoltaics,20210525-05:00,5.1000000000000005
+1003,Giant Wind Power,wind_power,20210525-05:00,9.1
+1004,City consumption,consumption,20210525-05:00,-21.7
+1001,Photovoltaics Tech,photovoltaics,20210525-06:00,5.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210525-06:00,5.1000000000000005
+1003,Giant Wind Power,wind_power,20210525-06:00,9.1
+1004,City consumption,consumption,20210525-06:00,-21.7
+1001,Photovoltaics Tech,photovoltaics,20210525-07:00,5.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210525-07:00,5.9
+1003,Giant Wind Power,wind_power,20210525-07:00,9.1
+1004,City consumption,consumption,20210525-07:00,-22.7
+1001,Photovoltaics Tech,photovoltaics,20210525-08:00,5.9
+1002,Solar Energy PV,photovoltaics,20210525-08:00,6.7
+1003,Giant Wind Power,wind_power,20210525-08:00,9.1
+1004,City consumption,consumption,20210525-08:00,-23.7
+1001,Photovoltaics Tech,photovoltaics,20210525-09:00,6.7
+1002,Solar Energy PV,photovoltaics,20210525-09:00,8.3
+1003,Giant Wind Power,wind_power,20210525-09:00,9.1
+1004,City consumption,consumption,20210525-09:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210525-10:00,7.5
+1002,Solar Energy PV,photovoltaics,20210525-10:00,9.9
+1003,Giant Wind Power,wind_power,20210525-10:00,9.1
+1004,City consumption,consumption,20210525-10:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-11:00,7.5
+1002,Solar Energy PV,photovoltaics,20210525-11:00,9.9
+1003,Giant Wind Power,wind_power,20210525-11:00,9.1
+1004,City consumption,consumption,20210525-11:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-12:00,8.3
+1002,Solar Energy PV,photovoltaics,20210525-12:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210525-12:00,9.1
+1004,City consumption,consumption,20210525-12:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-13:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210525-13:00,7.5
+1003,Giant Wind Power,wind_power,20210525-13:00,9.1
+1004,City consumption,consumption,20210525-13:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-14:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210525-14:00,7.5
+1003,Giant Wind Power,wind_power,20210525-14:00,9.1
+1004,City consumption,consumption,20210525-14:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-15:00,8.3
+1002,Solar Energy PV,photovoltaics,20210525-15:00,7.5
+1003,Giant Wind Power,wind_power,20210525-15:00,9.1
+1004,City consumption,consumption,20210525-15:00,-25.7
+1001,Photovoltaics Tech,photovoltaics,20210525-16:00,8.3
+1002,Solar Energy PV,photovoltaics,20210525-16:00,5.9
+1003,Giant Wind Power,wind_power,20210525-16:00,9.1
+1004,City consumption,consumption,20210525-16:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210525-17:00,7.5
+1002,Solar Energy PV,photovoltaics,20210525-17:00,4.300000000000001
+1003,Giant Wind Power,wind_power,20210525-17:00,9.1
+1004,City consumption,consumption,20210525-17:00,-23.7
+1001,Photovoltaics Tech,photovoltaics,20210525-18:00,5.9
+1002,Solar Energy PV,photovoltaics,20210525-18:00,5.1000000000000005
+1003,Giant Wind Power,wind_power,20210525-18:00,9.1
+1004,City consumption,consumption,20210525-18:00,-22.7
+1001,Photovoltaics Tech,photovoltaics,20210525-19:00,5.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210525-19:00,5.1000000000000005
+1003,Giant Wind Power,wind_power,20210525-19:00,9.1
+1004,City consumption,consumption,20210525-19:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210525-20:00,5.1000000000000005
+1002,Solar Energy PV,photovoltaics,20210525-20:00,3.5
+1003,Giant Wind Power,wind_power,20210525-20:00,9.1
+1004,City consumption,consumption,20210525-20:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210525-21:00,4.300000000000001
+1002,Solar Energy PV,photovoltaics,20210525-21:00,3.5
+1003,Giant Wind Power,wind_power,20210525-21:00,9.1
+1004,City consumption,consumption,20210525-21:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210525-22:00,4.300000000000001
+1002,Solar Energy PV,photovoltaics,20210525-22:00,4.300000000000001
+1003,Giant Wind Power,wind_power,20210525-22:00,9.1
+1004,City consumption,consumption,20210525-22:00,-23.7
+1001,Photovoltaics Tech,photovoltaics,20210525-23:00,3.5
+1002,Solar Energy PV,photovoltaics,20210525-23:00,3.5
+1003,Giant Wind Power,wind_power,20210525-23:00,9.1
+1004,City consumption,consumption,20210525-23:00,-21.7
+1001,Photovoltaics Tech,photovoltaics,20210526-00:00,7.5
+1002,Solar Energy PV,photovoltaics,20210526-00:00,7.5
+1003,Giant Wind Power,wind_power,20210526-00:00,6.7
+1004,City consumption,consumption,20210526-00:00,-19.5
+1001,Photovoltaics Tech,photovoltaics,20210526-01:00,7.5
+1002,Solar Energy PV,photovoltaics,20210526-01:00,7.5
+1003,Giant Wind Power,wind_power,20210526-01:00,6.7
+1004,City consumption,consumption,20210526-01:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210526-02:00,7.5
+1002,Solar Energy PV,photovoltaics,20210526-02:00,8.3
+1003,Giant Wind Power,wind_power,20210526-02:00,6.7
+1004,City consumption,consumption,20210526-02:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210526-03:00,8.3
+1002,Solar Energy PV,photovoltaics,20210526-03:00,8.3
+1003,Giant Wind Power,wind_power,20210526-03:00,6.7
+1004,City consumption,consumption,20210526-03:00,-20.5
+1001,Photovoltaics Tech,photovoltaics,20210526-04:00,8.3
+1002,Solar Energy PV,photovoltaics,20210526-04:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210526-04:00,6.7
+1004,City consumption,consumption,20210526-04:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210526-05:00,8.3
+1002,Solar Energy PV,photovoltaics,20210526-05:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210526-05:00,6.7
+1004,City consumption,consumption,20210526-05:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210526-06:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-06:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210526-06:00,6.7
+1004,City consumption,consumption,20210526-06:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210526-07:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-07:00,9.9
+1003,Giant Wind Power,wind_power,20210526-07:00,6.7
+1004,City consumption,consumption,20210526-07:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210526-08:00,9.9
+1002,Solar Energy PV,photovoltaics,20210526-08:00,10.7
+1003,Giant Wind Power,wind_power,20210526-08:00,6.7
+1004,City consumption,consumption,20210526-08:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210526-09:00,10.7
+1002,Solar Energy PV,photovoltaics,20210526-09:00,12.3
+1003,Giant Wind Power,wind_power,20210526-09:00,6.7
+1004,City consumption,consumption,20210526-09:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210526-10:00,11.5
+1002,Solar Energy PV,photovoltaics,20210526-10:00,13.9
+1003,Giant Wind Power,wind_power,20210526-10:00,6.7
+1004,City consumption,consumption,20210526-10:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-11:00,11.5
+1002,Solar Energy PV,photovoltaics,20210526-11:00,13.9
+1003,Giant Wind Power,wind_power,20210526-11:00,6.7
+1004,City consumption,consumption,20210526-11:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-12:00,12.3
+1002,Solar Energy PV,photovoltaics,20210526-12:00,13.100000000000001
+1003,Giant Wind Power,wind_power,20210526-12:00,6.7
+1004,City consumption,consumption,20210526-12:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-13:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-13:00,11.5
+1003,Giant Wind Power,wind_power,20210526-13:00,6.7
+1004,City consumption,consumption,20210526-13:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-14:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-14:00,11.5
+1003,Giant Wind Power,wind_power,20210526-14:00,6.7
+1004,City consumption,consumption,20210526-14:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-15:00,12.3
+1002,Solar Energy PV,photovoltaics,20210526-15:00,11.5
+1003,Giant Wind Power,wind_power,20210526-15:00,6.7
+1004,City consumption,consumption,20210526-15:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210526-16:00,12.3
+1002,Solar Energy PV,photovoltaics,20210526-16:00,9.9
+1003,Giant Wind Power,wind_power,20210526-16:00,6.7
+1004,City consumption,consumption,20210526-16:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210526-17:00,11.5
+1002,Solar Energy PV,photovoltaics,20210526-17:00,8.3
+1003,Giant Wind Power,wind_power,20210526-17:00,6.7
+1004,City consumption,consumption,20210526-17:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210526-18:00,9.9
+1002,Solar Energy PV,photovoltaics,20210526-18:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210526-18:00,6.7
+1004,City consumption,consumption,20210526-18:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210526-19:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-19:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210526-19:00,6.7
+1004,City consumption,consumption,20210526-19:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210526-20:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210526-20:00,7.5
+1003,Giant Wind Power,wind_power,20210526-20:00,6.7
+1004,City consumption,consumption,20210526-20:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210526-21:00,8.3
+1002,Solar Energy PV,photovoltaics,20210526-21:00,7.5
+1003,Giant Wind Power,wind_power,20210526-21:00,6.7
+1004,City consumption,consumption,20210526-21:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210526-22:00,8.3
+1002,Solar Energy PV,photovoltaics,20210526-22:00,8.3
+1003,Giant Wind Power,wind_power,20210526-22:00,6.7
+1004,City consumption,consumption,20210526-22:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210526-23:00,7.5
+1002,Solar Energy PV,photovoltaics,20210526-23:00,7.5
+1003,Giant Wind Power,wind_power,20210526-23:00,6.7
+1004,City consumption,consumption,20210526-23:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210527-00:00,7.5
+1002,Solar Energy PV,photovoltaics,20210527-00:00,7.5
+1003,Giant Wind Power,wind_power,20210527-00:00,6.7
+1004,City consumption,consumption,20210527-00:00,-19.5
+1001,Photovoltaics Tech,photovoltaics,20210527-01:00,7.5
+1002,Solar Energy PV,photovoltaics,20210527-01:00,7.5
+1003,Giant Wind Power,wind_power,20210527-01:00,6.7
+1004,City consumption,consumption,20210527-01:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210527-02:00,7.5
+1002,Solar Energy PV,photovoltaics,20210527-02:00,8.3
+1003,Giant Wind Power,wind_power,20210527-02:00,6.7
+1004,City consumption,consumption,20210527-02:00,-19.0
+1001,Photovoltaics Tech,photovoltaics,20210527-03:00,8.3
+1002,Solar Energy PV,photovoltaics,20210527-03:00,8.3
+1003,Giant Wind Power,wind_power,20210527-03:00,6.7
+1004,City consumption,consumption,20210527-03:00,-20.5
+1001,Photovoltaics Tech,photovoltaics,20210527-04:00,8.3
+1002,Solar Energy PV,photovoltaics,20210527-04:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210527-04:00,6.7
+1004,City consumption,consumption,20210527-04:00,-21.5
+1001,Photovoltaics Tech,photovoltaics,20210527-05:00,8.3
+1002,Solar Energy PV,photovoltaics,20210527-05:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210527-05:00,6.7
+1004,City consumption,consumption,20210527-05:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210527-06:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-06:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210527-06:00,6.7
+1004,City consumption,consumption,20210527-06:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210527-07:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-07:00,9.9
+1003,Giant Wind Power,wind_power,20210527-07:00,6.7
+1004,City consumption,consumption,20210527-07:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210527-08:00,9.9
+1002,Solar Energy PV,photovoltaics,20210527-08:00,10.7
+1003,Giant Wind Power,wind_power,20210527-08:00,6.7
+1004,City consumption,consumption,20210527-08:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210527-09:00,10.7
+1002,Solar Energy PV,photovoltaics,20210527-09:00,12.3
+1003,Giant Wind Power,wind_power,20210527-09:00,6.7
+1004,City consumption,consumption,20210527-09:00,-25.0
+1001,Photovoltaics Tech,photovoltaics,20210527-10:00,11.5
+1002,Solar Energy PV,photovoltaics,20210527-10:00,13.9
+1003,Giant Wind Power,wind_power,20210527-10:00,6.7
+1004,City consumption,consumption,20210527-10:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-11:00,11.5
+1002,Solar Energy PV,photovoltaics,20210527-11:00,13.9
+1003,Giant Wind Power,wind_power,20210527-11:00,6.7
+1004,City consumption,consumption,20210527-11:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-12:00,12.3
+1002,Solar Energy PV,photovoltaics,20210527-12:00,13.100000000000001
+1003,Giant Wind Power,wind_power,20210527-12:00,6.7
+1004,City consumption,consumption,20210527-12:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-13:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-13:00,11.5
+1003,Giant Wind Power,wind_power,20210527-13:00,6.7
+1004,City consumption,consumption,20210527-13:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-14:00,13.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-14:00,11.5
+1003,Giant Wind Power,wind_power,20210527-14:00,6.7
+1004,City consumption,consumption,20210527-14:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-15:00,12.3
+1002,Solar Energy PV,photovoltaics,20210527-15:00,11.5
+1003,Giant Wind Power,wind_power,20210527-15:00,6.7
+1004,City consumption,consumption,20210527-15:00,-26.5
+1001,Photovoltaics Tech,photovoltaics,20210527-16:00,12.3
+1002,Solar Energy PV,photovoltaics,20210527-16:00,9.9
+1003,Giant Wind Power,wind_power,20210527-16:00,6.7
+1004,City consumption,consumption,20210527-16:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210527-17:00,11.5
+1002,Solar Energy PV,photovoltaics,20210527-17:00,8.3
+1003,Giant Wind Power,wind_power,20210527-17:00,6.7
+1004,City consumption,consumption,20210527-17:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210527-18:00,9.9
+1002,Solar Energy PV,photovoltaics,20210527-18:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210527-18:00,6.7
+1004,City consumption,consumption,20210527-18:00,-23.5
+1001,Photovoltaics Tech,photovoltaics,20210527-19:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-19:00,9.100000000000001
+1003,Giant Wind Power,wind_power,20210527-19:00,6.7
+1004,City consumption,consumption,20210527-19:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210527-20:00,9.100000000000001
+1002,Solar Energy PV,photovoltaics,20210527-20:00,7.5
+1003,Giant Wind Power,wind_power,20210527-20:00,6.7
+1004,City consumption,consumption,20210527-20:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210527-21:00,8.3
+1002,Solar Energy PV,photovoltaics,20210527-21:00,7.5
+1003,Giant Wind Power,wind_power,20210527-21:00,6.7
+1004,City consumption,consumption,20210527-21:00,-25.5
+1001,Photovoltaics Tech,photovoltaics,20210527-22:00,8.3
+1002,Solar Energy PV,photovoltaics,20210527-22:00,8.3
+1003,Giant Wind Power,wind_power,20210527-22:00,6.7
+1004,City consumption,consumption,20210527-22:00,-24.5
+1001,Photovoltaics Tech,photovoltaics,20210527-23:00,7.5
+1002,Solar Energy PV,photovoltaics,20210527-23:00,7.5
+1003,Giant Wind Power,wind_power,20210527-23:00,6.7
+1004,City consumption,consumption,20210527-23:00,-22.5
+1001,Photovoltaics Tech,photovoltaics,20210528-00:00,6.0
+1002,Solar Energy PV,photovoltaics,20210528-00:00,6.0
+1003,Giant Wind Power,wind_power,20210528-00:00,7.6000000000000005
+1004,City consumption,consumption,20210528-00:00,-19.2
+1001,Photovoltaics Tech,photovoltaics,20210528-01:00,6.0
+1002,Solar Energy PV,photovoltaics,20210528-01:00,6.0
+1003,Giant Wind Power,wind_power,20210528-01:00,7.6000000000000005
+1004,City consumption,consumption,20210528-01:00,-18.7
+1001,Photovoltaics Tech,photovoltaics,20210528-02:00,6.0
+1002,Solar Energy PV,photovoltaics,20210528-02:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210528-02:00,7.6000000000000005
+1004,City consumption,consumption,20210528-02:00,-18.7
+1001,Photovoltaics Tech,photovoltaics,20210528-03:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210528-03:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210528-03:00,7.6000000000000005
+1004,City consumption,consumption,20210528-03:00,-20.2
+1001,Photovoltaics Tech,photovoltaics,20210528-04:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210528-04:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210528-04:00,7.6000000000000005
+1004,City consumption,consumption,20210528-04:00,-21.2
+1001,Photovoltaics Tech,photovoltaics,20210528-05:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210528-05:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210528-05:00,7.6000000000000005
+1004,City consumption,consumption,20210528-05:00,-22.2
+1001,Photovoltaics Tech,photovoltaics,20210528-06:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210528-06:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210528-06:00,7.6000000000000005
+1004,City consumption,consumption,20210528-06:00,-22.2
+1001,Photovoltaics Tech,photovoltaics,20210528-07:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210528-07:00,8.4
+1003,Giant Wind Power,wind_power,20210528-07:00,7.6000000000000005
+1004,City consumption,consumption,20210528-07:00,-23.2
+1001,Photovoltaics Tech,photovoltaics,20210528-08:00,8.4
+1002,Solar Energy PV,photovoltaics,20210528-08:00,9.2
+1003,Giant Wind Power,wind_power,20210528-08:00,7.6000000000000005
+1004,City consumption,consumption,20210528-08:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210528-09:00,9.2
+1002,Solar Energy PV,photovoltaics,20210528-09:00,10.8
+1003,Giant Wind Power,wind_power,20210528-09:00,7.6000000000000005
+1004,City consumption,consumption,20210528-09:00,-24.7
+1001,Photovoltaics Tech,photovoltaics,20210528-10:00,10.0
+1002,Solar Energy PV,photovoltaics,20210528-10:00,12.4
+1003,Giant Wind Power,wind_power,20210528-10:00,7.6000000000000005
+1004,City consumption,consumption,20210528-10:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-11:00,10.0
+1002,Solar Energy PV,photovoltaics,20210528-11:00,12.4
+1003,Giant Wind Power,wind_power,20210528-11:00,7.6000000000000005
+1004,City consumption,consumption,20210528-11:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-12:00,10.8
+1002,Solar Energy PV,photovoltaics,20210528-12:00,11.600000000000001
+1003,Giant Wind Power,wind_power,20210528-12:00,7.6000000000000005
+1004,City consumption,consumption,20210528-12:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-13:00,11.600000000000001
+1002,Solar Energy PV,photovoltaics,20210528-13:00,10.0
+1003,Giant Wind Power,wind_power,20210528-13:00,7.6000000000000005
+1004,City consumption,consumption,20210528-13:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-14:00,11.600000000000001
+1002,Solar Energy PV,photovoltaics,20210528-14:00,10.0
+1003,Giant Wind Power,wind_power,20210528-14:00,7.6000000000000005
+1004,City consumption,consumption,20210528-14:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-15:00,10.8
+1002,Solar Energy PV,photovoltaics,20210528-15:00,10.0
+1003,Giant Wind Power,wind_power,20210528-15:00,7.6000000000000005
+1004,City consumption,consumption,20210528-15:00,-26.2
+1001,Photovoltaics Tech,photovoltaics,20210528-16:00,10.8
+1002,Solar Energy PV,photovoltaics,20210528-16:00,8.4
+1003,Giant Wind Power,wind_power,20210528-16:00,7.6000000000000005
+1004,City consumption,consumption,20210528-16:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210528-17:00,10.0
+1002,Solar Energy PV,photovoltaics,20210528-17:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210528-17:00,7.6000000000000005
+1004,City consumption,consumption,20210528-17:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210528-18:00,8.4
+1002,Solar Energy PV,photovoltaics,20210528-18:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210528-18:00,7.6000000000000005
+1004,City consumption,consumption,20210528-18:00,-23.2
+1001,Photovoltaics Tech,photovoltaics,20210528-19:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210528-19:00,7.6000000000000005
+1003,Giant Wind Power,wind_power,20210528-19:00,7.6000000000000005
+1004,City consumption,consumption,20210528-19:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210528-20:00,7.6000000000000005
+1002,Solar Energy PV,photovoltaics,20210528-20:00,6.0
+1003,Giant Wind Power,wind_power,20210528-20:00,7.6000000000000005
+1004,City consumption,consumption,20210528-20:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210528-21:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210528-21:00,6.0
+1003,Giant Wind Power,wind_power,20210528-21:00,7.6000000000000005
+1004,City consumption,consumption,20210528-21:00,-25.2
+1001,Photovoltaics Tech,photovoltaics,20210528-22:00,6.800000000000001
+1002,Solar Energy PV,photovoltaics,20210528-22:00,6.800000000000001
+1003,Giant Wind Power,wind_power,20210528-22:00,7.6000000000000005
+1004,City consumption,consumption,20210528-22:00,-24.2
+1001,Photovoltaics Tech,photovoltaics,20210528-23:00,6.0
+1002,Solar Energy PV,photovoltaics,20210528-23:00,6.0
+1003,Giant Wind Power,wind_power,20210528-23:00,7.6000000000000005
+1004,City consumption,consumption,20210528-23:00,-22.2
