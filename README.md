@@ -2,6 +2,7 @@
 
 ---
 
-![system network](imageSet/system network.png)
+![system network](imageSet/system_network.jpg)
 
-![technical graph](imageSet/technical graph.png)
+![technical graph](imageSet/technical_graph.jpg)
+
